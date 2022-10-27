@@ -1,3 +1,5 @@
+package it.gabrieleanselmi.uniroma2.dicii.ispw.esempioSonarCloud;
+
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
